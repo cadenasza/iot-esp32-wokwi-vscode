@@ -14,4 +14,4 @@
 4. Veja os dados chegando no Node-RED pelo tópico `grupoXYZ/sensores`
 
 ## Integrantes
-Ver arquivo `integrantes.txt`.
+Leonardo Cadena de Souza
